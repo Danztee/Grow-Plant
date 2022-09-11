@@ -1,0 +1,26 @@
+#nav {
+  font-family: "Inter";
+}
+
+#links {
+  color: #000;
+}
+
+#links:hover {
+  color: #388525;
+}
+
+#active {
+  color: #388525;
+}
+
+#btn {
+  border-radius: 0;
+  color: #fff;
+  background: #388525;
+}
+
+#btn:hover {
+  background: transparent;
+  color: #388525;
+}

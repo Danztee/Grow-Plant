@@ -1,0 +1,21 @@
+#input {
+  width: 100%;
+  border: none;
+  outline: none;
+  background: #f0f0f0;
+  padding: 0.5rem;
+}
+
+@media screen and (max-width: 576px) {
+  #sec {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #margin {
+    margin: 4rem 0;
+  }
+}
